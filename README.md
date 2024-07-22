@@ -94,7 +94,3 @@ This project is a simple wallet system with functionalities to create wallets, c
 - **400 Bad Request**: Invalid request parameters or data.
 - **404 Not Found**: Wallet or transaction not found.
 - **500 Internal Server Error**: Unexpected server errors.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
