@@ -12,8 +12,8 @@ This project is a simple wallet system with functionalities to create wallets, c
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/SystemTraveler/CCN
+    cd SystemTraveler/CCN
     ```
 
 2. **Install the required Python packages**:
